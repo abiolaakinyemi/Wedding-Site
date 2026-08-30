@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Grateful and Abiola Wedding//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:white-20261121@abiolaandgrateful.com
+DTSTAMP:20260830T212100Z
+DTSTART:20261121T093000Z
+SUMMARY:Grateful & Abiola - White Ceremony
+LOCATION:All Souls Anglican Church, 15 Kayode Animashaun Street, Lekki Ph
+ ase 1, Lagos, Nigeria
+DESCRIPTION:White Ceremony. Black Tie. Please arrive early and be seated 
+ before 10:30 AM.
+URL:https://abiolaandgrateful.com/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
